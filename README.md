@@ -9,3 +9,8 @@
 - [geolocator](https://pub.dev/packages/geolocator)
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
 - [loading_animation_widget](https://pub.dev/packages/loading_animation_widget)
+
+
+this project is taken from github .
+
+Noor fatima SP19-BCS-049
